@@ -1,8 +1,3 @@
-# Integrantes e RM's
-
-Eduardo Santos Neto RM 96042\
-Mariana Mayumi Kubo Barboza RM 95533 
-
 # E-commerce
 
 ## Database
